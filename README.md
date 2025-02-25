@@ -26,13 +26,4 @@ With a clean and intuitive design, Chronika provides **quick insights** in the e
 - 🌐 **Cloud Sync**: Securely sync data across devices.  
 - 📤 **Export Data**: Download reports as CSV, PDF, or JSON.  
 
----
 
----
-
-## 🚀 Getting Started  
-
-### **Installation**  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/chronika.git  
