@@ -1,7 +1,6 @@
 # Chronika 🕒  
 **Your Digital Time Chronicle**  
 
----
 
 ## 📌 Overview  
 **Chronika** is a **minimalist yet powerful browser extension** that helps you track, analyze, and optimize your web browsing time. Whether you're looking to boost productivity, reduce distractions, or simply understand where your time goes, Chronika is your trusted companion for mastering your digital life.  
@@ -10,7 +9,6 @@ With a clean and intuitive design, Chronika provides **quick insights** in the e
 
 **Tagline**: *"Track Your Time, Master Your Day."* 🚀  
 
----
 
 ## ✨ Features  
 
