@@ -1,11 +1,11 @@
 # Chronika 🕒  
-**Your Digital Time Chronicle**  
+# Your Digital Time Chronicle  
 
+The name **Chronika** is derived from the Greek word *"χρονικά"* (chronika), which means *"chronicles"* or *"records of time."* It is closely related to *"χρόνος"* (chronos), the Greek word for *time.*  
 
-## 📌 Overview  
-**Chronika** is a **minimalist powerful browser extension** that helps you track, analyze, and optimize your web browsing time. Whether you're looking to boost productivity, reduce distractions, or simply understand where your time goes, Chronika is your trusted companion for mastering your digital life.  
+In ancient times, chronicles were used to document events and histories, preserving them for future generations. Similarly, **Chronika** acts as your **Digital Time Chronicle**, meticulously recording and analyzing your browsing habits to help you make the most of your time.  
 
-With a clean and intuitive design, Chronika provides **quick insights** in the extension and **detailed analysis** on the web dashboard.  
+By combining the ancient concept of chronicles with modern technology, **Chronika** empowers you to take control of your digital life, one moment at a time.
 
 
 ## ✨ Features  
