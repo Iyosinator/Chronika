@@ -1,6 +1,6 @@
 # Chronika 🕒  
-## Your Digital Time Chronicle  
 
+## 🕰️History
 The name **Chronika** is derived from the Greek word *"χρονικά"* (chronika), which means *"chronicles"* or *"records of time."* It is closely related to *"χρόνος"* (chronos), the Greek word for *time.*  
 
 In ancient times, chronicles were used to document events and histories, preserving them for future generations. Similarly, **Chronika** acts as your **Digital Time Chronicle**, meticulously recording and analyzing your browsing habits to help you make the most of your time.  
